@@ -1,6 +1,6 @@
 {
   "latestVersion": 1,
-  "stopApp": true,
+  "stopApp": false,
   "automaticCheck": true,
   "infoLink": "https://t.me/engineering3bot",
   "updateLink": ""
