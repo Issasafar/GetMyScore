@@ -2,7 +2,7 @@
   "latestVersion": 1,
   "infoLink": "https://t.me/engineering3bot",
   "updateLink": "https://t.me/engineering3bot",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceStop": false,
   "automaticCheck": true,
   "updateReason": "Recommended updates available",
