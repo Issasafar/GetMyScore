@@ -1,8 +1,8 @@
 {
-  "latestVersion": 11,
+  "latestVersion": 1,
   "infoLink": "https://t.me/engineering3bot",
   "updateLink": "https://t.me/engineering3bot",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "forceStop": false,
   "automaticCheck": true,
   "updateReason": "Recommended updates available",
